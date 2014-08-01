@@ -17,6 +17,6 @@ The script can now be run directly.
 Usage
 -----
 usage: `likes_xspf [-h] [-o OUT] user_url`
-* user_url           URL to the user's SoundCloud page
-* -h, --help         show this help message and exit
-* -o OUT, --out OUT  output filename
+* `user_url`           URL to the user's SoundCloud page
+* `-h, --help`         show this help message and exit
+* `-o OUT, --out OUT`  output filename
